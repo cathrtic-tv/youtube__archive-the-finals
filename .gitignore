@@ -1,0 +1,15 @@
+# Ignore everything...
+*
+!*/
+
+
+# ... except:
+!/.gitignore
+!/.github/README/*
+!/.github/FUNDING.yml
+
+!/THE FINALS/*/*/_subtitles.txt
+!/THE FINALS/*/*/*.jpg
+
+!/ARC Raiders/*/*/_subtitles.txt
+!/ARC Raiders/*/*/*.jpg

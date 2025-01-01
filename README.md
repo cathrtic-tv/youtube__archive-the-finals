@@ -21,9 +21,9 @@
 
 
 <div>
-    <h2>THE FINALS 🟥</h2>
+    <h2>THE FINALS 🟥🪙</h2>
     <p>
-        <a href="https://www.youtube.com/@CathRTic_archive/videos"><img src=".github/README/Banner.png" width="1024"></a>
+        <a href="https://www.youtube.com/@CathRTic_archive/videos"><img src=".github/README/CathRTic Archive THE FINALS.png" width="1024"></a>
     </p>
     <p>
         <a href="https://www.youtube.com/@CathRTic_archive/videos?sub_confirmation=1"><img src="https://img.shields.io/youtube/channel/subscribers/UCCmg1noQBaVNOk7PZdeBJ-w?style=for-the-badge&logo=youtube&labelColor=%234F4F4F&color=darkred"></a>
@@ -43,7 +43,7 @@
 <div>
     <h2>ARC Raiders 🔵🟢🟡🔴</h2>
     <p>
-        <!-- <a href="https://www.youtube.com/@CathRTic_archive_arc"><img src=".github/README/Banner.png" width="1024"></a> -->
+        <a href="https://www.youtube.com/@CathRTic_archive_arc"><img src=".github/README/CathRTic Archive ARC Raiders.png" width="1024"></a>
     </p>
     <p>
         <a href="https://www.youtube.com/@CathRTic_archive_arc/videos?sub_confirmation=1"><img src="https://img.shields.io/youtube/channel/subscribers/UCHxsARWaB2_HncJikyVdpCQ?style=for-the-badge&logo=youtube&labelColor=%234F4F4F&color=darkred"></a>
@@ -55,4 +55,4 @@
 </div>
 
 
-<!-- 1735501367723 -->
+<!-- 1735700578504 -->

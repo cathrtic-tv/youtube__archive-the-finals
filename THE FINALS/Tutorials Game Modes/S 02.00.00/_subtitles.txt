@@ -1,5 +1,5 @@
 [TERMINAL ATTACK]
-SCOTTY: Welcome to Terminal Attack, the latest craze hitting The Finals.
+SCOTTY: Welcome to Terminal Attack, the latest craze hitting THE FINALS.
 Courtesy of... well, CNS.
 JUNE: Here's the rundown.
 In this mode, two teams of five face off in a best-of-seven showdown.
@@ -32,7 +32,7 @@ And, you can't change your loadout mid-round.
 JUNE: When you're ready, you can even join in a Ranked Tournament
 where your performance can boost you to a new league.
 SCOTTY: So, team up, jump in, and give us a show!
-Can you reach the finals?
+Can you reach THE FINALS?
 
 [CASHOUT]
 SCOTTY: Want to play Cashout as a single match, instead of a Tournament?

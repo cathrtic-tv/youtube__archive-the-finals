@@ -1,0 +1,44 @@
+(EN)
+[ISEUL-T 1]
+Absorb
+
+[ISEUL-T 2]
+Worlds
+
+[ISEUL-T 3]
+For the miserable
+
+[ISEUL-T 4]
+And the fortunate
+
+[ISEUL-T 5]
+That which you desire. Becomes
+
+[ISEUL-T 6]
+That which you are
+
+[ISEUL-T 7]
+So. Absorb
+
+
+(FR)
+[ISEUL-T 1]
+Absorbe
+
+[ISEUL-T 2]
+Mondes
+
+[ISEUL-T 3]
+Pour misérables
+
+[ISEUL-T 4]
+Et fortunés
+
+[ISEUL-T 5]
+Ce que tu désires. Devenir
+
+[ISEUL-T 6]
+C'est ce que tu es
+
+[ISEUL-T 7]
+Alors. Absorbe

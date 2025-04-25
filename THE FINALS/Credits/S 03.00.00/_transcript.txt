@@ -1,0 +1,46 @@
+Copyright (C) 1982
+MultiCo
+All rights reserved.
+Version 76.4.01
+Thursday 26-May-24 03:00:00
+
+＞ SYS.ROLLBACK S1.SAV --VERIFY --NOTIFY
+＞ VAIIYA.FRONTIER_DEFENDER DEPLOY --SCOPE=SYSTEM_WIDE
+
+＞ LOADING...
+
+Yes we are back, a brand new season filled with tons of love, straight from the bottom of our dev hearts...
+Yes a new season filled with passion from everyone at Embark to you, our gamers, our everything.!
+Question, what would a new season be without a new scroll text.?!
+The answer is, well, still great but not as perfect.!
+So get ready... Pop a soda and grab the left over popcorn from yesterday...
+Here we go...
+Let s start with the most important thing first...
+A huge thanks to all our gamers out there, you inspire us, you fuel us, you make the sun shine even when the rain is pouring...
+Thanks to all the amazing content creators that post your amazing videos art songs drawings streams thoughts poems that make us smile and laugh.... love it... 
+Thanks to all of you who make amazing fan art, funny memes, thank you for sharing your love..!
+Thank you all and see you in the arena, from Embark with love.!
+
+...Ohh, did you think we were going to forget all of you on our Discord, all the amazing computer geeks, modders, sceners etc...
+Well of course not, thank you.! 
+Time to end this text and press play... See you in the arena.!
+
+Wait, are we not forgetting something.?? Haha never.!
+As always, a mega big shoutout to all our fellow gamemakers out there, keep it up.!
+
+...But now it is time to end this scroller... You should not waste more time here...
+GLHFGG.!
+
+...Ok to all of you EE hunters out there... Missing discs...
+
+...Ok now its wrapping time for reals... See you in THE FINALS.!
+And same as last time... Take care of each other out there...
+And yes we have said it before and we will say it again and again
+From Embark with love.!
+
+...Hey still here.?!
+Seriously leave the credits now, press play and jump into the arena instead...
+GGOUT...
+
+End of scroll for Season 3... Scroll restarting in 
+5  4  3  2  1 

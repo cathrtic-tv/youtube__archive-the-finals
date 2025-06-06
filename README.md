@@ -1,21 +1,15 @@
 <div>
     <h1>CathRTic - THE FINALS Archive</h1>
-    <p>
-        THE unofficial source for Embark Studios's THE FINALS cinematics, tutorials, credits, and more - with transcripts.!
-        <br>
-        ( Includes some non-in-game videos too )
-    </p>
-</div>
-
-<br>
-
-<div>
-    <hr>
     <a href="https://www.youtube.com/@CathRTic_archive/videos?sub_confirmation=1"><img src=".github/README/CathRTic Archive THE FINALS.png" width="1024"></a>
     <div>
         <a href="https://www.youtube.com/@CathRTic_archive/videos?sub_confirmation=1"><img src="https://img.shields.io/youtube/channel/subscribers/UCCmg1noQBaVNOk7PZdeBJ-w?style=for-the-badge&labelColor=%23373737FF&color=%238B0000FF&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJtMTAgMTVsNS4xOS0zTDEwIDl6bTExLjU2LTcuODNjLjEzLjQ3LjIyIDEuMS4yOCAxLjljLjA3LjguMSAxLjQ5LjEgMi4wOUwyMiAxMmMwIDIuMTktLjE2IDMuOC0uNDQgNC44M2MtLjI1LjktLjgzIDEuNDgtMS43MyAxLjczYy0uNDcuMTMtMS4zMy4yMi0yLjY1LjI4Yy0xLjMuMDctMi40OS4xLTMuNTkuMUwxMiAxOWMtNC4xOSAwLTYuOC0uMTYtNy44My0uNDRjLS45LS4yNS0xLjQ4LS44My0xLjczLTEuNzNjLS4xMy0uNDctLjIyLTEuMS0uMjgtMS45Yy0uMDctLjgtLjEtMS40OS0uMS0yLjA5TDIgMTJjMC0yLjE5LjE2LTMuOC40NC00LjgzYy4yNS0uOS44My0xLjQ4IDEuNzMtMS43M2MuNDctLjEzIDEuMzMtLjIyIDIuNjUtLjI4YzEuMy0uMDcgMi40OS0uMSAzLjU5LS4xTDEyIDVjNC4xOSAwIDYuOC4xNiA3LjgzLjQ0Yy45LjI1IDEuNDguODMgMS43MyAxLjczIi8+PC9zdmc+"></a>&thinsp;
         <a href="https://www.youtube.com/@CathRTic_archive/videos?sub_confirmation=1"><img src="https://img.shields.io/youtube/channel/views/UCCmg1noQBaVNOk7PZdeBJ-w?style=for-the-badge&label=Total%20Views&labelColor=%23373737FF&color=%238B0000FF&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTIgOWEzIDMgMCAwIDAtMyAzYTMgMyAwIDAgMCAzIDNhMyAzIDAgMCAwIDMtM2EzIDMgMCAwIDAtMy0zbTAgOGE1IDUgMCAwIDEtNS01YTUgNSAwIDAgMSA1LTVhNSA1IDAgMCAxIDUgNWE1IDUgMCAwIDEtNSA1bTAtMTIuNUM3IDQuNSAyLjczIDcuNjEgMSAxMmMxLjczIDQuMzkgNiA3LjUgMTEgNy41czkuMjctMy4xMSAxMS03LjVjLTEuNzMtNC4zOS02LTcuNS0xMS03LjUiLz48L3N2Zz4="></a>
     </div>
+    <br>
+    <p>THE unofficial source for Embark Studios's THE FINALS cinematics, tutorials, credits, and more - with transcripts.!</p>
+    <p>( Includes some non-in-game videos too )</p>
+    <br>
+    <hr>
     <details>
         <summary>
             <h2>THE FINALS (92 Videos)</h2>
